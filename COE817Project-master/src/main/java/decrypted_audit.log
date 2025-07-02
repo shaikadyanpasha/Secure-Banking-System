@@ -1,0 +1,5 @@
+test | deposit | Mon Apr 07 20:51:30 EDT 2025
+test | withdraw | Mon Apr 07 20:51:35 EDT 2025
+test | check_balance | Mon Apr 07 20:51:39 EDT 2025
+test | withdraw | Mon Apr 07 20:51:48 EDT 2025
+test | check_balance | Mon Apr 07 20:52:00 EDT 2025
